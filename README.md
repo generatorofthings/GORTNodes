@@ -1,6 +1,6 @@
-# CombineTextNode
+# wildcardtext
 
-CombineTextNode is a custom node for ComfyUI that allows you to combine multiple text inputs. The node supports wildcards-
+wildcardtext is a custom node for ComfyUI that allows you to combine multiple text inputs. The node supports wildcards-
 
 ## Features
 - Three text boxes, useful for pony prompting.
